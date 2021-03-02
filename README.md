@@ -1,2 +1,2 @@
 # getting-started-with-git
-hiiiii
+hi, world
